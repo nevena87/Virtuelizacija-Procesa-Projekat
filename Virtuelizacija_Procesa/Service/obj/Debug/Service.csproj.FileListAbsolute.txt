@@ -1,0 +1,26 @@
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\Service.exe.config
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\Service.exe
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\Service.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\Common.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\DataBase.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\Common.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\bin\Debug\DataBase.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.exe
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Service\obj\Debug\Service.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\Service.exe.config
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\Service.exe
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\Service.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\Common.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\DataBase.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\Common.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\bin\Debug\DataBase.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.exe
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Service\obj\Debug\Service.pdb

@@ -1,0 +1,18 @@
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\bin\Debug\DataBase.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\bin\Debug\DataBase.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\bin\Debug\Common.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\bin\Debug\Common.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\bin\Debug\DataBase.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\bin\Debug\DataBase.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\bin\Debug\Common.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\bin\Debug\Common.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\DataBase\obj\Debug\DataBase.pdb

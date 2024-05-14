@@ -1,0 +1,6 @@
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\bin\Debug\Common.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\bin\Debug\Common.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\obj\Debug\Common.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Common\obj\Debug\Common.pdb

@@ -1,0 +1,22 @@
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\bin\Debug\Client.exe.config
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\bin\Debug\Client.exe
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\bin\Debug\Client.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\bin\Debug\Common.dll
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\bin\Debug\Common.pdb
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.exe
+C:\Users\WIN10\Desktop\pr\Virtuelizacija_Procesa\Client\obj\Debug\Client.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\bin\Debug\Client.exe.config
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\bin\Debug\Client.exe
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\bin\Debug\Client.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\bin\Debug\Common.dll
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\bin\Debug\Common.pdb
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.exe
+C:\Users\My Computer\Desktop\PROJJJJ\Virtuelizacija_Procesa\Client\obj\Debug\Client.pdb
